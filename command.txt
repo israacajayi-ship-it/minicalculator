@@ -1,4 +1,4 @@
 git add .
 
-git commit -m "new commit added"
 git push origin main
+streamlit run site.py
